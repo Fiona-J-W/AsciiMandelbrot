@@ -3,9 +3,6 @@
 
 
 
-#define ACCURACY 9999999
-
-
 int condition (double x, double y, unsigned a) {
 	
 	unsigned counter=1;
