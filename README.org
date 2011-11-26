@@ -1,9 +1,10 @@
-| AsciiMandelbrot      | A simple but fast ascii-art implementation of the mandelbrot set |
-|----------------------+------------------------------------------------------------------|
-| Copyright Holder     | Mekeor Melire ©                                                  |
-| License              | GNU GPL version 3, or newer                                      |
-| Programming Language | C99                                                              |
-| Recommended Editor   | GNU Emacs                                                        |
-| Recommended Compiler | GNU GCC                                                          |
-| Other used tools     | GNU make                                                         |
-| Recommended OS       | Unix-like, e.g. *BSD, GNU/Linux                                  |
+| AsciiMandelbrot      | A simple but fast ascii-art implementation of the mandelbrot set                         |
+|----------------------+------------------------------------------------------------------------------------------|
+| Copyright Holder     | Mekeor Melire ©                                                                          |
+| License              | GNU GPL version 3, or newer                                                              |
+| Programming Language | C99                                                                                      |
+| Recommended Editor   | GNU Emacs                                                                                |
+| Recommended Compiler | GNU GCC                                                                                  |
+| Other used tools     | GNU make                                                                                 |
+| Recommended OS       | Unix-like, e.g. *BSD, GNU/Linux                                                          |
+| *WARNING!*           | I'm currently not sure whether the program works correctly!! The fractal could be wrong! |
