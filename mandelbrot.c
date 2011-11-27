@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+
+
 int colors[]={ 7,  //white
 	       3,  //yellow
 	       2,  //green
@@ -9,7 +11,6 @@ int colors[]={ 7,  //white
 	       5,  //magenta
 	       1,  //red
 	       0}; //black
-
 
 
 void f (double x, double y, unsigned d, unsigned a) {
@@ -32,6 +33,7 @@ void f (double x, double y, unsigned d, unsigned a) {
 		}
 	putchar(' ');
 }
+
 
 
 int main (int argc, char **argv) {
