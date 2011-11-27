@@ -1,0 +1,8 @@
+* necessary [1/3]
+  - [X] colors
+  - [ ] better command-line parameter evaluation
+  - [ ] parameter which decides whether to use color or not
+* nice-to-have [0/1]
+  - [ ] parameter to set the x- and y-range
+* will /not/ be implemented [1/1]
+  - [X] picture generation (this program is text-only!)
