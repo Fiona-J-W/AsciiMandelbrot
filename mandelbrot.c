@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
+#include <complex.h>
 
 
 
@@ -16,14 +17,14 @@ int colors[]={ 7,  //white
 void f (double x, double y, unsigned d, unsigned a) {
 	
 	unsigned counter=1;
-	double   imag=0,
-		 real=0;
-	
+	double complex val=0+0*I;
+	double complex add=x+y*I;
 	while (counter<=d) {
-		real=real*real-imag*imag+x;
-		imag=2*real*imag+y;
-		if (real*real+imag*imag>a) break;
-		counter++;
+		val=val*val+add;
+		if(abs(val)>a){
+			break;
+		}
+	counter++;
 	}
 	
 	for (unsigned u=0; u<=7; ++u)
