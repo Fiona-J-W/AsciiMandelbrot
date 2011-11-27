@@ -7,4 +7,5 @@
 | Recommended Compiler | GNU GCC                                                                                  |
 | Other used tools     | GNU make                                                                                 |
 | Recommended OS       | Unix-like, e.g. *BSD, GNU/Linux                                                          |
+| Recommended terminal | Your terminal should support colors                                                      |
 | *WARNING!*           | I'm currently not sure whether the program works correctly!! The fractal could be wrong! |
